@@ -13,3 +13,8 @@ Hi! I'm MTM123. Programming is my hobby that started out with making plugins for
 
 <a href="https://imgur.com/9y8vg6v"><img src="https://i.imgur.com/9y8vg6vt.jpg" title="source: imgur.com" /></a>
 Yo, I'm Ignite (https://github.com/IM-IgniteDEV), a 19-year-old passionate programmer familiar with most technologies used in current server development. I've been coding in Java since I was 12, and I started that journey in Minecraft development. I'm powered by weed, but the most important thing to me is quality. I cannot work on projects that need to be rushed; it is not for me. I always do everything in the most efficient way and I focus on quality. I'm experienced in many languages, however, I'm taking only commissions in Java since it's my love.
+
+<a href="https://imgur.com/P8V3mUn"><img src="https://i.imgur.com/P8V3mUn.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/KVs9pEK"><img src="https://i.imgur.com/KVs9pEKt.png" title="source: imgur.com" /></a>
+Hey, I'm repeater64, a Minecraft plugin developer with a passion for the game and multiple years of experience. I love constantly learning and being able to look back on how much I've improved, and also enjoy helping people out wherever I can. I'm proficient in Java and love writing the cleanest code I can! My goal is to make a name for myself as a friendly and helpful developer and to have a positive impact on as many Minecraft servers out there as possible.
