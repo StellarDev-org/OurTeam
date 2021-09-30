@@ -9,6 +9,8 @@ Howdy y'all, it's Diz! I'm the founder and COO of StellarDev, a software develop
 <a href="https://imgur.com/VTWtmpT"><img src="https://i.imgur.com/VTWtmpTt.png" title="source: imgur.com" /></a>
 Hey, I’m Jacob. I’m one of the founders and lead developers at StellarDev. Since 2017 I’ve been leading development on our optimized spigot forks and working to create highly optimized and efficient solutions for servers of all sizes. Part of StellarDev’s goal is to create opportunities for others, so I'm always working hard to create new breakthroughs so we can continue to provide industry leading products for our customers.
 
+<a href="https://imgur.com/P8V3mUn"><img src="https://i.imgur.com/P8V3mUn.png" title="source: imgur.com" /></a>
+
 <a href="https://imgur.com/lBv3Jm0"><img src="https://i.imgur.com/lBv3Jm0t.png" title="source: imgur.com" /></a>
 Hi! I'm MTM123. Programming is my hobby that started out with making plugins for minecraft servers and it expanded way beyond that. I have the most experience with Java. I have experience with Kotlin and Python and some web development experience (PHP, Angular, JS). 
 
