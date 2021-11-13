@@ -36,5 +36,5 @@ Hey, I'm Ember. I've been working with StellarDev since it's creation and been w
 
 <a href="https://imgur.com/P8V3mUn"><img src="https://i.imgur.com/P8V3mUn.png" title="source: imgur.com" /></a>
 
-https://cdn.discordapp.com/attachments/903004242539851777/909197874628268072/unknown.png
+<a href="https://imgur.com/iNu1NLY"><img src="https://i.imgur.com/iNu1NLYt.png" title="source: imgur.com" /></a>
 Hey, I'm Bart and I'm 20 years Java developer. I work with the language since 2015, worked with various databases and technologies over that time. When it comes to spigot servers, I mostly care about performance to keep the code stable and fast.
