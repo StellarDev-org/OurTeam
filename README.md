@@ -33,3 +33,8 @@ Hello! I'm Elapsed, I'm 19 years old and going into network engineering. I've be
 
 <a href="https://imgur.com/yA7RblT"><img src="https://i.imgur.com/yA7RblTt.png" title="source: imgur.com" /></a>
 Hey, I'm Ember. I've been working with StellarDev since it's creation and been working with Diz for many years. I've been developing in Java since high school, and more recently in JavaScript (TypeScript), Python, and PHP. Minecraft has always had a special place in my heart because of the friends I've made and the amount of time I've spent playing.
+
+<a href="https://imgur.com/P8V3mUn"><img src="https://i.imgur.com/P8V3mUn.png" title="source: imgur.com" /></a>
+
+https://cdn.discordapp.com/attachments/903004242539851777/909197874628268072/unknown.png
+Hey, I'm Bart and I'm 20 years Java developer. I work with the language since 2015, worked with various databases and technologies over that time. When it comes to spigot servers, I mostly care about performance to keep the code stable and fast.
