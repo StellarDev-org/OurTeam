@@ -38,3 +38,8 @@ Hey, I'm Ember. I've been working with StellarDev since it's creation and been w
 
 <a href="https://imgur.com/iNu1NLY"><img src="https://i.imgur.com/iNu1NLYt.png" title="source: imgur.com" /></a>
 Hey, I'm Bart and I'm 20 years Java developer. I work with the language since 2015, worked with various databases and technologies over that time. When it comes to spigot servers, I mostly care about performance to keep the code stable and fast.
+
+<a href="https://imgur.com/P8V3mUn"><img src="https://i.imgur.com/P8V3mUn.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/4kasmNy"><img src="https://i.imgur.com/4kasmNyt.png" title="source: imgur.com" /></a>
+Hi, I'm Shev. I'm 26 years old, and i started programming in when i was 15. My very first language was C, but in 2012 i stumbled upon minecraft and bukkit, and decided to dive into plugin development. My first public plugins were AutoSaveWorld(a recode of AutoSave) and ChairsReloaded(a recode of Chairs), and they are still used by many servers. Since that time i have written many more plugins and improved my code quality a lot.  Apart from bukkit i also have knowledge in Spring, so i can do web development too. I prefer quality over quantity, so i'm always ensuring that my code is as clean as possible, but if absolutely needed, i can always throw a bunch of duct tape at thing that needs an urgent fix.
